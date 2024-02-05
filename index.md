@@ -1,6 +1,3 @@
----
-layout: default
-title: Hello
----
+# Hello!
 
-## Welcome!
+This is HPOWSC.
