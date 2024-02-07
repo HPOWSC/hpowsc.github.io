@@ -1,6 +1,5 @@
 # Welcome!
 
-![Logo](Logo-Transparent.png)
 <img src="Logo-Transparent.png" width="200" height="200" />
 This is Highland Park Open Water Swim Club (HPOWSC). The official swim club of Highland Park, IL. 
 
